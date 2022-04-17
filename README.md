@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src = "https://img.shields.io/badge/<iOS>-<Swift>-<#F05138>"
+<img src = "https://img.shields.io/badge/<iOS>-<Swift>-<#F05138>">
 <!--
 **JUNY0110/JUNY0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
