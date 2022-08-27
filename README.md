@@ -1,6 +1,9 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJUNY0110&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <img src = "https://img.shields.io/badge/<iOS>-<Swift>-<#F05138>">
+
+![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNY0110&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <!--
 **JUNY0110/JUNY0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
