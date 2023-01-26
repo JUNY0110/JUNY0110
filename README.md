@@ -5,6 +5,8 @@
 
 ![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNY0110&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNY0110&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JUNY0110)](https://git.io/streak-stats)
 <!--
 **JUNY0110/JUNY0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
