@@ -3,7 +3,7 @@
 ## 🧑‍💻 Personal Project
 |App Logo|Ropository|AppStore|
 |:-:|:-:|:-:|
-|<img width="100" src="https://user-images.githubusercontent.com/98405970/237044910-fe4743f8-77d5-423e-a123-09f6bd4fced4.png">|[💻](https://github.com/JUNY0110/FocusBook)|[📱iPad App](https://apps.apple.com/kr/app/focusbook/id6448801067?l=en)|
+|<img width="100" src="https://user-images.githubusercontent.com/98405970/237044910-fe4743f8-77d5-423e-a123-09f6bd4fced4.png">|[💻](https://github.com/JUNY0110/FocusBook)|[🍎 iPad App](https://apps.apple.com/kr/app/focusbook/id6448801067?l=en)|
 -----
 ## 😎 Team Project
 |App Logo|Ropository|App Logo|Ropository|
@@ -16,7 +16,7 @@
 |Education|Programming Language|Period|
 |:-:|:-:|-|
 |앨런 Swift 문법 마스터 스쿨|<img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>|23.05.01. ~ |
-|Apple Developer Academy @ POSTECH|<img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>|22.03.14. ~ 22.12.17.|
+|[Apple Developer Academy @ POSTECH](https://github.com/DeveloperAcademy-POSTECH)|<img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>|22.03.14. ~ 22.12.17.|
 
 ![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNY0110&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNY0110&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
