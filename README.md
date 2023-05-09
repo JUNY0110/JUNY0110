@@ -13,10 +13,10 @@
 |<img width="300" height="120" src="https://user-images.githubusercontent.com/98405970/237054183-544888b2-2018-4e57-bd5a-92f660c04372.png">|[💻](https://github.com/Eddy-Meenu/Jikyeojulge)|
 -----
 ## 🏃🏻‍♂️ Activity
-|Title|Programming Language|Period|
-|:-:|:-:|:-|
-|앨런 Swift 문법 마스터 스쿨|<img src = "https://img.shields.io/badge/<iOS>-<Swift>-<#F05138>">|23.05.01. ~ |
-|Apple Developer Academy @ POSTECH|<img src = "https://img.shields.io/badge/<iOS>-<Swift>-<#F05138>">|22.03.14. ~ 22.12.17.|
+|Education|Programming Language|Period|
+|:-:|:-:|-|
+|앨런 Swift 문법 마스터 스쿨|<img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>|23.05.01. ~ |
+|Apple Developer Academy @ POSTECH|<img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>|22.03.14. ~ 22.12.17.|
 
 ![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNY0110&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNY0110&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
