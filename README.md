@@ -1,23 +1,26 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJUNY0110&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi~%20I'm%20Joonyong%20Ji%20&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-
-<img src = "https://img.shields.io/badge/<iOS>-<Swift>-<#F05138>">
+## 🧑‍💻 Personal Project
+|App Logo|Ropository|AppStore|
+|:-:|:-:|:-:|
+|<img width="100" src="https://user-images.githubusercontent.com/98405970/237044910-fe4743f8-77d5-423e-a123-09f6bd4fced4.png">|[💻](https://github.com/JUNY0110/FocusBook)|[📱iPad App](https://apps.apple.com/kr/app/focusbook/id6448801067?l=en)|
+-----
+## 😎 Team Project
+|App Logo|Ropository|App Logo|Ropository|
+|:-:|:-:|:-:|:-:|
+|<img width="300" height="120" src="https://user-images.githubusercontent.com/98405970/237053392-3cc8d1d1-1429-4f49-b7c6-c6b0f461f4e5.png">|[💻](https://github.com/Samsamhada)|<img width="300" height="120" src="https://user-images.githubusercontent.com/98405970/237052967-23efcaf5-d1c0-4911-b810-0da48bcba539.png">|[💻](https://github.com/JamongSoda/IntoHistory)
+|<img width="300" height="120" src="https://user-images.githubusercontent.com/98405970/237052803-492a2841-ddaa-4a26-a318-08b879fa750d.png">|[💻](https://github.com/DeveloperAcademy-POSTECH/MC3-Team8-FOX)|<img width="300" height="120" src="https://user-images.githubusercontent.com/98405970/237053574-401db058-5e87-458e-9e6e-e1ff59640410.png">|[💻](https://github.com/DeveloperAcademy-POSTECH/MC2-Team10-NEW2KM)
+|<img width="300" height="120" src="https://user-images.githubusercontent.com/98405970/237054183-544888b2-2018-4e57-bd5a-92f660c04372.png">|[💻](https://github.com/Eddy-Meenu/Jikyeojulge)|
+-----
+## 🏃🏻‍♂️ Activity
+|Title|Programming Language|Period|
+|:-:|:-:|:-|
+|앨런 Swift 문법 마스터 스쿨|<img src = "https://img.shields.io/badge/<iOS>-<Swift>-<#F05138>">|23.05.01. ~ |
+|Apple Developer Academy @ POSTECH|<img src = "https://img.shields.io/badge/<iOS>-<Swift>-<#F05138>">|22.03.14. ~ 22.12.17.|
 
 ![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNY0110&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNY0110&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+-----
+[📮 Email](wnsdyds403@gmail.com)
 
-<!--
-**JUNY0110/JUNY0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[🛳️ Tistory Blog](https://developer-eddy403.tistory.com)
