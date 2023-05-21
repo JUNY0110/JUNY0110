@@ -17,15 +17,18 @@
 |:-:|:-:|-|
 |앨런 Swift 문법 마스터 스쿨|<img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>|23.05.01. ~ |
 |[Apple Developer Academy @ POSTECH](https://github.com/DeveloperAcademy-POSTECH)|<img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>|22.03.14. ~ 22.12.17.|
+-----
+
+## 🌎 Experience
+|Title|Content|Link|
+|:-:|:-:|:-:|
+|WWDC23 Swift Student Challenge|WWDC23 Winner|[Link](https://developer.apple.com/kr/wwdc23/swift-student-challenge/)|
+|Junction Asia 2022 in Busan|Chainapsis Track 참가|[Link](https://asia.hackjunction.com/ko)|
+|2022 전라북도 창업경진대회|본선 진출|[Link](https://linkareer.com/activity/84563)|
 
 ![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNY0110&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNY0110&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 -----
-## Experience
-|Title|Content|Link|
-|:-:|:-:|-|
-|WWDC23 Swift Student Challenge|WWDC23 Winner|[Link](https://developer.apple.com/kr/wwdc23/swift-student-challenge/)|Junction Asia 2022 in Busan|Chainapsis Track 참가|[Link](https://asia.hackjunction.com/ko)|2022년 전라북도 창업경진대회|본선 진출|[Link](https://linkareer.com/activity/84563)|
- 
 
 [📮 Email](wnsdyds403@gmail.com)
 
