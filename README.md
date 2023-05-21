@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi~%20I'm%20Joonyong%20Ji%20&fontSize=90&animation=fadeIn&fontAlignY=38)
 
 ## 🧑‍💻 Personal Project
-|App Logo|Repo|AppStore|ETC|
-|:-:|:-:|:-:|:-:|
-|<img width="100" src="https://user-images.githubusercontent.com/98405970/237044910-fe4743f8-77d5-423e-a123-09f6bd4fced4.png">|[💻](https://github.com/JUNY0110/FocusBook)|[🍎](https://apps.apple.com/kr/app/focusbook/id6448801067?l=en)|[WWDC23 Scholars](https://www.wwdcscholars.com/s/C9366B5C-A295-4554-8AD8-3BF60546D36B/2023)|
+|App Logo|Repo|AppStore|
+|:-:|:-:|:-:|
+|<img width="100" src="https://user-images.githubusercontent.com/98405970/237044910-fe4743f8-77d5-423e-a123-09f6bd4fced4.png">|[💻](https://github.com/JUNY0110/FocusBook)|[🍎](https://apps.apple.com/kr/app/focusbook/id6448801067?l=en)|
 -----
 ## 😎 Team Project
 |App Logo|Repo|App Logo|Repo|
