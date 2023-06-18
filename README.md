@@ -24,9 +24,6 @@
 |[WWDC23 Swift Student Challenge](https://www.wwdcscholars.com/)|2023.04|[WWDC23 Winner](https://www.wwdcscholars.com/s/C9366B5C-A295-4554-8AD8-3BF60546D36B/2023)|
 |[Junction Asia 2022 in Busan](https://asia.hackjunction.com/ko)|2022.08|Chainapsis Track 참가|
 |[2022 전라북도 창업경진대회](https://linkareer.com/activity/84563)|2022.07|본선 진출|
-
-![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNY0110&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNY0110&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 -----
 
 [📮 Email](wnsdyds403@gmail.com)
