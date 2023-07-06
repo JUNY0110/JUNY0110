@@ -14,7 +14,7 @@
 ## 🏃🏻‍♂️ Programming Education
 |Education|Programming Language|Period|
 |:-:|:-:|-|
-|앨런 Swift 문법 마스터 스쿨|<img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>|23.05.01. ~ |
+|앨런 Swift 문법 마스터 스쿨|<img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>|23.05.01. ~ 23.06.30.|
 |[Apple Developer Academy @ POSTECH](https://github.com/DeveloperAcademy-POSTECH)|<img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>|22.03.14. ~ 22.12.17.|
 -----
 
