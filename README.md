@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi~%20I'm%20Joonyong%20Ji%20&fontSize=90&animation=fadeIn&fontAlignY=38)
 
+<div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsdyds403)](https://solved.ac/wnsdyds403)
+</div>
+
 ## 🧑‍💻 Personal Project
 |App Logo|Repo|AppStore|
 |:-:|:-:|:-:|
