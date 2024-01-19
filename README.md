@@ -13,8 +13,7 @@
 ## 😎 Team Project
 |App Logo|Repo|App Logo|Repo|
 |:-:|:-:|:-:|:-:|
-|<img width="300" height="120" src="https://user-images.githubusercontent.com/98405970/237053392-3cc8d1d1-1429-4f49-b7c6-c6b0f461f4e5.png">|[💻](https://github.com/Samsamhada)|<img width="300" height="120" src="https://user-images.githubusercontent.com/98405970/237052967-23efcaf5-d1c0-4911-b810-0da48bcba539.png">|[💻](https://github.com/JamongSoda/IntoHistory)
-|<img width="300" height="120" src="https://user-images.githubusercontent.com/98405970/237054183-544888b2-2018-4e57-bd5a-92f660c04372.png">|[💻](https://github.com/Eddy-Meenu/Jikyeojulge)|
+|<img width="300" height="120" src="https://user-images.githubusercontent.com/98405970/237053392-3cc8d1d1-1429-4f49-b7c6-c6b0f461f4e5.png">|[💻](https://github.com/Samsamhada)|<img width="300" height="120" src="https://user-images.githubusercontent.com/98405970/237052967-23efcaf5-d1c0-4911-b810-0da48bcba539.png">|[💻](https://github.com/JamongSoda/IntoHistory)|
 -----
 ## 🏃🏻‍♂️ Programming Education
 |Education|Programming Language|Period|
