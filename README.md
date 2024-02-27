@@ -28,7 +28,6 @@
 |:-:|:-:|:-:|
 |[Junction Asia 2023 in Busan](https://github.com/DareForce/junction-iOS)|2023.08|JAKA Robotics Track 참가|
 |[WWDC23 Swift Student Challenge](https://www.wwdcscholars.com/)|2023.04|[WWDC23 Winner](https://www.wwdcscholars.com/s/C9366B5C-A295-4554-8AD8-3BF60546D36B/2023)|
-|[Junction Asia 2022 in Busan](https://github.com/LemonSoda-junctionAsia2022/LemonSoda)|2022.08|Chainapsis Track 참가|
 |[2022 전라북도 창업경진대회](https://github.com/Eddy-Meenu/Jikyeojulge)|2022.07|본선 진출|
 -----
 
