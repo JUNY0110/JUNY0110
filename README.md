@@ -13,7 +13,7 @@
 ## 😎 Team Project
 |App Logo|Repo|Period|App Logo|Repo|Period|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|**DDD 개발동아리 - 맛나(진행중)**|[💻]("https://github.com/DDD-Community/DDD10-TEOPLE-iOS")|23.12.~ (현재)|<img width="200" height="120" src="https://user-images.githubusercontent.com/98405970/237053392-3cc8d1d1-1429-4f49-b7c6-c6b0f461f4e5.png">|[💻](https://github.com/Samsamhada)|22.09.~ 22.12.|
+|**DDD 개발동아리 - 맛나(진행중)**|[💻](https://github.com/DDD-Community/DDD10-TEOPLE-iOS)|23.12.~ (현재)|<img width="200" height="120" src="https://user-images.githubusercontent.com/98405970/237053392-3cc8d1d1-1429-4f49-b7c6-c6b0f461f4e5.png">|[💻](https://github.com/Samsamhada)|22.09.~ 22.12.|
 |<img width="200" height="120" src="https://user-images.githubusercontent.com/98405970/237052967-23efcaf5-d1c0-4911-b810-0da48bcba539.png">|[💻](https://github.com/JamongSoda/IntoHistory)|22.07.~ 22.08.|
 -----
 ## 🏃🏻‍♂️ Programming Education
