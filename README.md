@@ -33,4 +33,4 @@
 
 [📮 Email](wnsdyds403@gmail.com)
 
-[🛳️ Tistory Blog](https://developer-eddy403.tistory.com)
+[🛳️ Blog](https://zrr.kr/HQ4E)
